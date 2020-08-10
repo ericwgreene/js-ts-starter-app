@@ -44,6 +44,8 @@ This second terminal will run in "watch" mode and report TypeScript compilation 
 
 The application comes with basic TypeScript and TSLint configuration. The file `tsconfig.json` contains the TypeScript compiler options. The file `tslint.json` contains the TypeScript linter options. A program can compile while failing the linter rules. In general the linter rules are more restrictive than the compiler. The compiler is used to produce running JavaScript code, the linter is used to ensure good coding practices.
 
+While there are many excellent editors available to programmers, [Visual Studio Code](https://code.visualstudio.com/) is recommended for JavaScript and TypeScript programming.
+
 To explore compiler configuration options: [https://www.typescriptlang.org/docs/handbook/compiler-options.html](https://www.typescriptlang.org/docs/handbook/compiler-options.html)
 
 To explore linter configuration options: [https://palantir.github.io/tslint/rules/](https://palantir.github.io/tslint/rules/)
